@@ -1,6 +1,6 @@
 # Analisando os resultados de partidas em competições FIRST de robótica através da mineração de dados
 
-- Escrito por [Vinícius Alexandre Lucas](mailto:103871@aluno.uricer.edu.br)
+- Escrito por [Vinícius Alexandre Lucas](mailto:103871@aluno.uricer.edu.br) | Turma: 2023T1
 
 - _Link_ para o repositório: <https://github.com/viniciusalexandrelucas/trabalho-mineracao-de-dados>
 
